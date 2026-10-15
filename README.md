@@ -168,21 +168,11 @@ Un seul rapport, trois vues différentes selon le profil.
 
 ---
 
-## 📁 9. Contenu du dépôt et utilisation
 
-```
-├── README.md
-├── Sanitoral_dashboard.pbix     ← rapport Power BI
-├── images/                      ← captures d'écran
-├── docs/                        ← Product Strategy Canvas, modèle de données
-└── data/                        ← données fictives (si autorisé)
-```
-
-**Pour ouvrir le projet :** Power BI Desktop (Windows) est nécessaire. Ouvre le fichier `.pbix`, puis utilise *Modélisation > Afficher en tant que* pour tester les rôles.
 
 ---
 
-## 📚 10. Ce que j'ai appris
+## 📚 9. Ce que j'ai appris
 
 Ce projet m'a fait parcourir toutes les étapes d'un projet BI : du cadrage du besoin à la sécurisation du dashboard. J'ai appris à structurer un modèle de données, à définir des indicateurs cohérents avec leur sens métier, et à adapter l'accès aux données selon le profil. J'ai aussi mesuré l'importance de relier chaque visuel à un besoin concret d'utilisateur.
 
