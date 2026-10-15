@@ -166,9 +166,6 @@ Un seul rapport, trois vues différentes selon le profil.
 - Sécurité des données avec RLS
 - Documentation d'un projet BI
 
----
-
-
 
 ---
 
